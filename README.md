@@ -1,7 +1,7 @@
-# [Minetest Website](https://www.minetest.net)
+# [Luanti Website](https://www.minetest.net)
 
 [![Build status](https://github.com/minetest/minetest.github.io/workflows/build/badge.svg)](https://github.com/minetest/minetest.github.io/actions)\
-The official Minetest website, living at [www.minetest.net](https://www.minetest.net).
+The official Luanti website, living at [www.minetest.net](https://www.minetest.net).
 
 ## Features
 
@@ -20,6 +20,8 @@ This site uses the [Jekyll](https://jekyllrb.com) static site generator.
 - Install dependencies by running `bundle install`.
 - Use `bundle exec jekyll serve` to automatically build the site
   and serve it locally.
+
+You can also use the provided [Dev Container](https://containers.dev/) configuration to make it easier.
 
 ### Browser support
 
@@ -44,7 +46,7 @@ Media (except gallery) and content are licensed under
 
 Gallery screenshots are by various authors and depict various content
 
-- 1: Minetest Game
+- 1: Backrooms Test (Sumianvoice)
 - 2: Soothing32 (Zughy)
 - 3: i3 (Jean-Patrick Guerrero)
 - 4: Mineclone2 (Wuzzy)
